@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\MyApp.csproj": {}
+    "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "f:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\MyApp.csproj": {
+    "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "f:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\MyApp.csproj",
+        "projectPath": "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\ahk02\\.nuget\\packages\\",
-        "outputPath": "f:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\obj\\",
+        "outputPath": "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Project\\MyWork\\MyThem\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
